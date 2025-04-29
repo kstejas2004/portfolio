@@ -6,13 +6,13 @@ const educations = [
   {
     degree: "B-Tech",
     school: "Presidency University",
-    duration: "2020 - 2024",
+    duration: "2022 - 2026",
     logo: "https://images.unsplash.com/photo-1607013407627-6ee814329547?q=80&w=1928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
-    degree: "Diploma",
-    school: "Government Tool Room & Training Centre Kalaburagi",
-    duration: "2017 - 2020",
+    degree: "PU",
+    school: "Sri Vidya Mandir PU College",
+    duration: "2020- 2022",
     logo: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80",
   },
 ];
